@@ -1,6 +1,6 @@
 # DSC - Decentralized Stablecoin
 
-A decentralized, algorithmically stabilized cryptocurrency pegged to the US Dollar. The DSC protocol maintains a $1.00 peg through overcollateralized positions using ETH and BTC as backing assets, similar to MakerDAO's DAI but without governance, fees, and with a simplified collateral model.
+A decentralized, algorithmically stabilized cryptocurrency pegged to the US Dollar. The DSC protocol maintains a $1.00 peg through overcollateralized positions using ETH and BTC as backing assets, similar to MakerDAO's DAI but without governance, fees, and with a simplified collateral model. Made as Part of the Cyfrin Foundry Fundamentals Course. 
 
 ## Protocol Design
 
